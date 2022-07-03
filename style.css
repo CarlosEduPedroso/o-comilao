@@ -1,0 +1,42 @@
+body{
+ background-image: url(img.jpg);   
+ height: 400px;
+}
+h1{
+    color: rgb(233, 233, 141);
+font-family: 'Times New Roman', Times, serif;
+font-size: 80px;  
+    text-align: center;
+}
+h2,h3{
+    color: rgb(233, 233, 141);
+    text-transform: uppercase;
+}
+.container{
+    background-color:black; 
+font-size: 30px;
+color: rgb(233, 233, 141);
+
+}
+ #button  {
+    border: 0;
+    background: rgb(158, 128, 83);
+    color: rgb(17, 15, 15);
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+    border-radius:120PX 120PX 120PX 120PX ;
+    box-shadow: 10px 10px 10px 10px;
+}
+#button:hover{
+    background: rgb(229, 226, 226);
+    color: rgb(19, 17, 17);
+} 
+#hamburguer{
+    text-transform: uppercase;
+}
+legend{
+    text-transform: uppercase;
+}
